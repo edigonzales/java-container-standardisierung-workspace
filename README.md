@@ -15,3 +15,8 @@ P1.1 legt UBI9, Java 25/21/17 und die Native-Runtime fest. Für P2 sind `sodata-
 
 - [Verbindlicher Standard mit Referenz-Dockerfiles](reports/P1.1-standard.md)
 - [Unabhängiger Review mit Findings und Abschlussprüfung](reports/P1.1-review.md)
+
+## P2.1 · JVM-Pilot sodata-api
+
+- [UBI9 OpenJDK 17, Testresultate und OpenShift-Abnahme](reports/P2.1-sodata-api.md)
+- [Unabhängiger Review des Piloten](reports/P2.1-review.md)
