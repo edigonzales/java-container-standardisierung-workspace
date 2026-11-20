@@ -26,6 +26,11 @@ P1.1 legt UBI9, Java 25/21/17 und die Native-Runtime fest. Für P2 sind `sodata-
 - [UBI9 Minimal, Vergleichstests und OpenShift-Abnahme](reports/P2.2-gretl-job-starter.md)
 - [Unabhängiger Review des Native-Piloten](reports/P2.2-review.md)
 
+## P3.1 · JVM-Runtime-Migrationen
+
+- [Migrationen, Testresultate und OpenShift-Abnahme](reports/P3.1-jvm-migration.md)
+- [Unabhängiger Review der drei Anwendungen](reports/P3.1-review.md)
+
 ## P3.2 · JVM-Runtime ilivalidatorws
 
 - [UBI9 OpenJDK 21, Direktstart und OpenShift-Abnahme](reports/P3.2-ilivalidatorws.md)
